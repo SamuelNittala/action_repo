@@ -4,3 +4,4 @@ pink slips
 yellow
 red
 green
+white

@@ -6,3 +6,4 @@ red
 green
 white
 orange
+violet
